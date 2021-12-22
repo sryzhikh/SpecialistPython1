@@ -2,3 +2,9 @@
 # Вывести на экран сумму всех элементов.
 
 # TODO: your code here
+list = [-10, -5, -3, 3, 6, -2, -6, 10, 6, 2, 10]
+sum=0
+for test in list:
+       sum=sum+test
+
+print(sum)
